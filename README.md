@@ -6,7 +6,7 @@ To use this programs you need to install special [library](https://algs4.cs.prin
 # 1. Seam Carving
 ---
 
-## Goal:
+## Target:
 Resize the given image without cuting important elements and without compressing it and losing content.
 ## Example:
 ![Example](https://coursera.cs.princeton.edu/algs4/assignments/seam/HJoceanSmall.png)
