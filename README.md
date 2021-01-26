@@ -35,3 +35,22 @@ Resize the given image without cuting important elements and without compressing
 3.    Red-Black Binary Search Tree
 4.    Breadth-First Directed Paths
 5.    Depth-First Search
+
+# 3. Collinear Points
+![Example](https://coursera.cs.princeton.edu/algs4/assignments/collinear/lines2.png)
+## Target:
+Find all 4+ points, that are collinear and make it quick
+## What was used:
+*    Special slope function
+*    Quicksort with special sort order
+*    Bruteforce method for time-comparing
+
+# 4. 8-puzzle solver
+## Target:
+Make a programm, that can solve 8-puzzle board, if it is solvable 
+![Way_of_solving](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/4moves.png)
+## What was used:
+*    Priority functions, based on difference between final and current board
+*    A* search algorythm
+*    Priority queues, consisting of boards
+*    Special board class and special neighbour methods
