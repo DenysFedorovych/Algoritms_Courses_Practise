@@ -54,3 +54,13 @@ Make a programm, that can solve 8-puzzle board, if it is solvable
 *    A* search algorythm
 *    Priority queues, consisting of boards
 *    Special board class and special neighbour methods
+
+# 5. Kd-Trees
+## Target:
+Make a structure, that allows us to search fast through objects with k parameters
+![Tree](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/kdtree3.png)
+![Visualize](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/kdtree-insert3.png)
+## What was used:
+*    Special tree structure 
+*    Special compare function
+*    Range and neareast neighbour functions
